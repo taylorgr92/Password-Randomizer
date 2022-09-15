@@ -10,7 +10,12 @@ I created this application in order to satify the client's desire for a random p
 When clicked, 'generate password' button triggers a series of prompts and confirmation boxed for the user to interact with. The generated password is diplayed in a card.
 
 
+## Screenshots
 
+[password-gen-screenshot.png](https://postimg.cc/T5J0kkw0)
 
+[password-gen-screenshot1.png](https://postimg.cc/6yJnTscG)
 
+## Installation
 
+This link leads to the repository where you can clone the code: https://github.com/taylorgr92/password-gen-challenge.
