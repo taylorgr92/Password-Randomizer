@@ -1,8 +1,3 @@
-
-
-
-
-
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
@@ -19,7 +14,7 @@ function writePassword() {
 function generatePassword(){
  var charLength = prompt('How many characters would you like your password to be? It must be 8-128 characters.')
  
- while((charLength < 8 ) || (charLength > 128) || (isNaN(charLength)===true)){
+ while((charLength < 8 ) || (charLength > 128) || (isNaN(charLength))){
   alert("Password length must be between 8 and 128 characters")
   charLength= prompt('How long would you like your password to be?')
  }
