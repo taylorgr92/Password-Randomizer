@@ -29,7 +29,7 @@ var isNumeric= confirm('Do you want numeric characters?')
 var lowerCase= 'abcdefghijklmnopqrstuvwxyz'
 var upperCase= 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 var numeric = '0123456789'
-var specialCase = "#%&@*!()$"
+var specialCase = '#^%&@*!()$';
 var charBank= '';
 var newPassword= '';
 
